@@ -100,9 +100,17 @@ main {
     font-weight: bold;
 }
 
+.venti { 
+    text-align: center;
+}
+
 blockquote {
     text-align: center;
     font-weight: bold;
+}
+
+.shop {
+    text-align: center;
 }
 
 .social-media {
