@@ -109,6 +109,13 @@ blockquote {
     font-weight: bold;
 }
 
+.youtube {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
 .shop {
     text-align: center;
 }
